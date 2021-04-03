@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @CarloAviles
+- 👀 I’m interested in learn about Automation...
+- 🌱 I’m currently learning python and Selenium...
+
+- 📫 If you have insterest in contact me, send me a email to carlosaviles.dev@gmail.com  
+
